@@ -232,6 +232,5 @@ __marimo__/
 Thumbs.db
 .DS_Store
 
-# Temporary local files & screenshots
-image.png
+# Temporary local files
 *.log
