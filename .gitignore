@@ -218,3 +218,20 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+
+# Project Secrets & Environment
+.env
+.env.*
+!.env.example
+*.local
+
+# Editor & OS settings
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
+
+# Temporary local files & screenshots
+image.png
+*.log
